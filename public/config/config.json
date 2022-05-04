@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xcac3a1c51aecc90f60e6d5efaa728c081a20f9d4",
+  "SCAN_LINK": "https://etherscan.io/address/0xcac3a1c51aecc90f60e6d5efaa728c081a20f9d4",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Whale Collective",
+  "SYMBOL": "WHALE",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 45000000000000000,
+  "DISPLAY_COST": 0.045,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/whale-collective",
+  "SHOW_BACKGROUND": false
+}
