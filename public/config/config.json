@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xcac3a1c51aecc90f60e6d5efaa728c081a20f9d4",
-  "SCAN_LINK": "https://etherscan.io/address/0xcac3a1c51aecc90f60e6d5efaa728c081a20f9d4",
+  "CONTRACT_ADDRESS": "0x5b12b9449ce5d33950274d973dab441e12a01e91",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x5b12b9449ce5d33950274d973dab441e12a01e91",
   "NETWORK": {
-    "NAME": "Ethereum Mainnet",
-    "SYMBOL": "ETH",
-    "ID": 1
+    "NAME": "Mumbait",
+    "SYMBOL": "MATIC",
+    "ID": 80001
   },
-  "NFT_NAME": "Whale Collective",
-  "SYMBOL": "WHALE",
-  "MAX_SUPPLY": 10000,
-  "WEI_COST": 45000000000000000,
-  "DISPLAY_COST": 0.045,
+  "NFT_NAME": "Realprop Fund I",
+  "SYMBOL": "RPF1",
+  "MAX_SUPPLY": 25000,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/whale-collective",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/realprop-fund-i-v2",
   "SHOW_BACKGROUND": false
 }
